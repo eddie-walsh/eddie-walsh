@@ -1,36 +1,40 @@
-# 👋 Hi, I'm Eddie
+# 👋 Hey, I’m Eddie  
 
-I'm a **27-year-old junior developer** passionate about building, breaking, and securing technology.  
-Currently, I'm sharpening my skills in **software development** while transitioning into the world of **cybersecurity**.  
+I’m a **27-year-old junior developer** with a growing passion for **cybersecurity**. I love tinkering with technology — whether that means building something new, breaking it to see how it works, or figuring out how to make it more secure.  
+
+Right now, I’m sharpening my development skills while diving deeper into the security world, with a special interest in **how cybersecurity applies to drones and emerging tech**.  
 
 ---
 
 ![Hacker Meme](./assets/hacker.gif)
 
-
 ---
 
-## 🔒 About Me
-- 💻 Background in coding and problem solving  
-- 🚀 Currently learning **cybersecurity fundamentals**, including:
-  - Network security
-  - Ethical hacking
+## 🔒 About Me  
+- 💻 Background in coding & problem solving  
+- 🚀 Currently learning and practicing **cybersecurity fundamentals**, focusing on:  
+  - Network security  
+  - Ethical hacking  
   - Secure coding practices  
-- 🎯 Goal: Become a **cybersecurity professional** with strong development knowledge  
-- 🌱 Always curious and eager to learn something new every day  
+- 🛸 Exploring the intersection of **cybersecurity and drones** — from securing wireless communication to protecting IoT systems  
+- 🎯 Goal: Become a **cybersecurity professional** who bridges the gap between development, security, and innovative tech  
+- 🌱 Always curious, always learning, and not afraid to break things (on purpose 😉)  
 
 ---
 
-## 📚 Learning Journey
-- 🔐 Practicing with **Hack The Box** & **TryHackMe**  
-- 📘 Working through **cybersecurity certifications** (CompTIA Security+, CEH in the future)  
-- 🛠️ Building small projects to document my progress  
+## 📚 My Learning Journey  
+- 🔐 Hands-on practice with **Hack The Box** & **TryHackMe**  
+- 📘 Studying through the **Google Cybersecurity Certificate** to strengthen networking & security fundamentals  
+- 🛠️ Building projects, experimenting with a **home lab**, and planning to create my own **Pwnagotchi**  
+- 🛸 Researching how **drone technology** can be secured against cyber threats  
+- 📖 Future goals: **CompTIA Security+** and eventually **CEH**  
 
 ---
 
-## 🎯 What’s Next
-- Share security-related projects & write-ups here  
+## 🎯 What’s Next  
+- Share my projects, labs, and write-ups here on GitHub  
+- Explore and document **drone + cybersecurity projects**  
 - Contribute to open-source projects in **infosec**  
-- Connect with other devs & security enthusiasts  
+- Connect and learn from other developers & security enthusiasts  
 
 ---
