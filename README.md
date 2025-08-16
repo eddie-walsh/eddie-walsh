@@ -5,8 +5,8 @@ Currently, I'm sharpening my skills in **software development** while transition
 
 ---
 
-![Hacker Meme](https://media.tenor.com/6i7K4wY6-IUAAAAC/hacker-meme.gif)
 
+![Uploading hacker-meme.gif…]()
 
 
 ---
