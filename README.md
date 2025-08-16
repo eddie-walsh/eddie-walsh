@@ -1,19 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
+I'm a **27-year-old junior developer** passionate about building, breaking, and securing technology.  
+Currently, I'm sharpening my skills in **software development** while transitioning into the world of **cybersecurity**.  
+
+---
 
 ![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWU1NG5jeXVraGZjZWxweTRoNDFzMndzb2U2NXBqMTN3ZDNhdDFoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif)
 
-<!--
-**eddie-walsh/eddie-walsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔒 About Me
+- 💻 Background in coding and problem solving  
+- 🚀 Currently learning **cybersecurity fundamentals**, including:
+  - Network security
+  - Ethical hacking
+  - Secure coding practices  
+- 🎯 Goal: Become a **cybersecurity professional** with strong development knowledge  
+- 🌱 Always curious and eager to learn something new every day  
+
+---
+
+## 🛠️ Tech & Tools
+- **Languages**: JavaScript, Python, Bash, SQL  
+- **Currently Exploring**: Linux hardening, penetration testing, CTF challenges  
+- **Tools**: Git/GitHub, Wireshark, Nmap, Burp Suite, VS Code  
+
+---
+
+## 📚 Learning Journey
+- 🔐 Practicing with **Hack The Box** & **TryHackMe**  
+- 📘 Working through **cybersecurity certifications** (CompTIA Security+, CEH in the future)  
+- 🛠️ Building small projects to document my progress  
+
+---
+
+## 🎯 What’s Next
+- Share security-related projects & write-ups here  
+- Contribute to open-source projects in **infosec**  
+- Connect with other devs & security enthusiasts  
+
+---
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+- 📧 [Email](#)  
+
+---
+
+⚡ *"The quieter you become, the more you are able to hear."*  
