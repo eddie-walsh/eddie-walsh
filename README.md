@@ -6,8 +6,6 @@ Currently, I'm sharpening my skills in **software development** while transition
 ---
 
 
-![Uploading hacker-meme.gif…]()
-
 
 ---
 
@@ -19,13 +17,6 @@ Currently, I'm sharpening my skills in **software development** while transition
   - Secure coding practices  
 - 🎯 Goal: Become a **cybersecurity professional** with strong development knowledge  
 - 🌱 Always curious and eager to learn something new every day  
-
----
-
-## 🛠️ Tech & Tools
-- **Languages**: JavaScript, Python, Bash, SQL  
-- **Currently Exploring**: Linux hardening, penetration testing, CTF challenges  
-- **Tools**: Git/GitHub, Wireshark, Nmap, Burp Suite, VS Code  
 
 ---
 
@@ -43,11 +34,3 @@ Currently, I'm sharpening my skills in **software development** while transition
 
 ---
 
-## 📫 Let’s Connect
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
-- 📧 [Email](#)  
-
----
-
-⚡ *"The quieter you become, the more you are able to hear."*  
