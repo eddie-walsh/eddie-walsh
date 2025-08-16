@@ -5,7 +5,7 @@ Currently, I'm sharpening my skills in **software development** while transition
 
 ---
 
-![Cybersecurity GIF](https://media1.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+<img src="https://media1.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="400"/>
 
 
 ---
