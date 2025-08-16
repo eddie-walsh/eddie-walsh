@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Eddie  
 
-I’m a **27-year-old junior developer** with a growing passion for **cybersecurity**. I love tinkering with technology — whether that means building something new, breaking it to see how it works, or figuring out how to make it more secure.  
+I’m a **27-year-old junior developer** with a growing passion for **cybersecurity**. I love tinkering with technology - whether that means building something new, breaking it to see how it works, or figuring out how to make it more secure.  
 
 ---
 
@@ -25,4 +25,5 @@ I’m a **27-year-old junior developer** with a growing passion for **cybersecur
 - 📖 Future goals: **CompTIA Security+** and eventually **CEH**  
 
 ---
+
 
