@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![Alt Text]([https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWU1NG5jeXVraGZjZWxweTRoNDFzMndzb2U2NXBqMTN3ZDNhdDFoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif))
+<img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWU1NG5jeXVraGZjZWxweTRoNDFzMndzb2U2NXBqMTN3ZDNhdDFoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif)" width="400" />
+
 <!--
 **eddie-walsh/eddie-walsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
