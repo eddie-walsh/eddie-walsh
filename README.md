@@ -1,11 +1,11 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Eddie
 
 I'm a **27-year-old junior developer** passionate about building, breaking, and securing technology.  
 Currently, I'm sharpening my skills in **software development** while transitioning into the world of **cybersecurity**.  
 
 ---
 
-![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWU1NG5jeXVraGZjZWxweTRoNDFzMndzb2U2NXBqMTN3ZDNhdDFoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif)
+![Cybersecurity GIF](https://media1.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 
 
 ---
