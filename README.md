@@ -5,7 +5,8 @@ Currently, I'm sharpening my skills in **software development** while transition
 
 ---
 
-<div class="tenor-gif-embed" data-postid="27665965" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/hacker-meme-work-hard-you-can-do-it-gif-27665965">Hacker Meme GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Hacker Meme](https://media.tenor.com/6i7K4wY6-IUAAAAC/hacker-meme.gif)
+
 
 
 ---
